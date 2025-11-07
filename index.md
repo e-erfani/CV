@@ -1,7 +1,8 @@
 <p align="center">
-  <a href="/">Home</a> |
-  <a href="/news">News</a>
+  <a href="index.md">Home</a> |
+  <a href="news.md">News</a>
 </p>
+
 
 ---
 layout: default
