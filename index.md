@@ -1,7 +1,11 @@
 # Ehsan Erfani, PhD  
 Assistant Research Professor — Atmospheric Sciences  
 Desert Research Institute, Reno, Nevada  
-📧 Ehsan[DOT]Erfani[at]dri[DOT]edu | [LinkedIn](https://www.linkedin.com/in/ehsanerfani/) • [GitHub](https://github.com/e-erfani/) • [Google Scholar](https://scholar.google.com/citations?user=iPn7XkIAAAAJ&hl=en) • [ResearchGate](https://www.researchgate.net/profile/Ehsan-Erfani)
+📧 Ehsan[DOT]Erfani[at]dri[DOT]edu | <img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/a58ddfe6-8a49-4bb1-bba9-322e828b0e4d" />
+[LinkedIn](https://www.linkedin.com/in/ehsanerfani/) • <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/28c24a22-2383-40b8-a1a5-68804f4b50d3" />
+[GitHub](https://github.com/e-erfani/) • <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/bb62bdd7-f5a7-4435-a07c-6f7151060251" />
+[Google Scholar](https://scholar.google.com/citations?user=iPn7XkIAAAAJ&hl=en) • <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b305ebfd-ce4b-432c-a028-1ce62e766872" />
+[ResearchGate](https://www.researchgate.net/profile/Ehsan-Erfani)
 
 ---
 
@@ -22,9 +26,7 @@ GPA: 4.0 / 4.0
 ---
 
 ## Select Publications
-*(Full publication list available on Google Scholar)*
-
-## Publications
+*(Full publication list available on [Google Scholar](https://scholar.google.com/citations?user=iPn7XkIAAAAJ&hl=en))*
 
 - **Erfani, Ehsan** and Hosseinpour, F. E. (2025). A Novel Approach for Reliable Classification of Marine Low Cloud Morphologies with Vision–Language Models. Atmosphere. https://doi.org/10.3390/atmos16111252  
 
