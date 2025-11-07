@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Ehsan Erfani — CV"
+---
+
 # Ehsan Erfani, PhD  
 Assistant Research Professor — Atmospheric Sciences  
 Desert Research Institute, Reno, Nevada  
