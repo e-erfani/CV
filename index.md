@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="/">Home</a> |
+  <a href="/news">News</a>
+</p>
+
 ---
 layout: default
 title: "Ehsan Erfani — CV"
