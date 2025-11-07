@@ -1,14 +1,13 @@
+---
+layout: default
+title: "Ehsan Erfani — CV"
+---
+
 <p align="center">
   <a href="index.html">Home</a> |
   <a href="news.html">News</a>
 </p>
 
-
-
----
-layout: default
-title: "Ehsan Erfani — CV"
----
 
 <p align="center">
   <img src="assets/header.jpg" alt="header image" style="width:50%; max-width:1000px;">
