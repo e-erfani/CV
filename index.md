@@ -79,24 +79,24 @@ GPA: 4.0 / 4.0
 ---
 
 ## Select Honors & Awards
-- DRI Institute Project Assignments Award — 2024  
-- NASA EPSCoR Awards (Wildfire smoke–cloud interaction, Cirrus cloud dynamics) — 2023 & 2024  
-- UW–NOAA LES Stratocumulus Award — 2023  
+- DRI **Institute Project Assignments** Award — 2024  
+- **NASA EPSCoR** Awards (Wildfire smoke–cloud interaction, Cirrus cloud dynamics) — 2023 & 2024  
+- **UW–NOAA** LES Stratocumulus Award — 2023 & 2024 & 2025  
 - **1st Place**, Scientific Paper Competition (GSA) — Univ. of Nevada, Reno — 2015  
-- Collin Warden Award — Desert Research Institute — 2014  
-- Academic Scholarship toward Ph.D. — UNR — 2012  
+- **Collin Warden** Award — Desert Research Institute — 2014  
+- Academic **Scholarship** toward Ph.D. — UNR — 2012  
 
 ---
 
 ## Community Service & Professional Activities
 - **University Lecturer**: Graduate Seminar & Applied Data Analysis (UNR)  
 - **Session Chair**: American Meteorological Society Annual Meeting (2025)  
-- Graduate Admissions & Recruitment Committee — UNR (2024–present)  
-- Early Career Faculty Development Advisory Group — DRI (2023–present)  
-- Reviewer for ~30 manuscripts (GRL, J. Climate, JGR, ACP, etc.)  
-- Judge for AGU Outstanding Student Paper Awards — 2017–2022  
+- Graduate **Admissions & Recruitment** Committee — UNR (2024–present)  
+- **Early Career Faculty** Development Advisory Group — DRI (2023–present)  
+- **Reviewer** for ~30 manuscripts (GRL, J. Climate, JGR, ACP, etc.)  
+- **Judge** for AGU Outstanding Student Paper Awards — 2017–2022  
 
-Mentoring (students/interns):
+**Mentoring** (students/interns):
 - Cloud seeding modeling (DRI, 2023–present)  
 - Air quality prediction modeling (DRI, 2023–2024)  
 - Cirrus cloud thinning model development (2022–present)  
@@ -107,13 +107,9 @@ Mentoring (students/interns):
 ## Selected Invited Talks & Conference Presentations
 *(full list available upon request)*
 
-## Invited Talks and Conference Presentations
-
 - **Erfani, Ehsan**, Mitchell, D. L., Mejia, J. F. (2025). Quantifying Cirrus Cloud Radiative Effects in Numerical Models by Incorporating Satellite Observations. AMS Annual Meeting, New Orleans, LA (talk).
 
 - **Erfani, Ehsan**, Wood, R., Blossey, P., Doherty, S., Eastman, R., McMichael, L. (2024). Simulating Low Cloud Evolution by Building a Comprehensive Library of Observed Lagrangian Trajectories. Micro2Macro Workshop, Laramie, WY (poster).
-
-- Mitchell, D. L., **Erfani, Ehsan** (2024). Thinning Cirrus Clouds. "To Save The World" podcast, Episode 595.
 
 - **Erfani, Ehsan**, Wood, R., Blossey, P., Doherty, S., Eastman, R., McMichael, L. (2024). Building a comprehensive library of cloud-resolving simulations to study marine cloud brightening across a spectrum of environmental conditions. AMS Annual Meeting, Baltimore, MD (talk).
 
