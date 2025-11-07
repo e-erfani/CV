@@ -3,6 +3,11 @@ layout: default
 title: "Ehsan Erfani — CV"
 ---
 
+<p align="center">
+  <img src="assets/header.jpg" alt="header image" style="width:50%; max-width:1000px;">
+</p>
+
+
 # Ehsan Erfani, PhD  
 Assistant Research Professor — Atmospheric Sciences  
 Desert Research Institute, Reno, Nevada  
