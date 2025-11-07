@@ -1,7 +1,7 @@
 # Ehsan Erfani, PhD  
 Assistant Research Professor — Atmospheric Sciences  
 Desert Research Institute, Reno, Nevada  
-📧 Ehsan[DOT]Erfani[at]dri[DOT]edu | [LinkedIn](https://www.linkedin.com/in/ehsanerfani/) • [GitHub](https://github.com/e-erfani/) • [Google Scholar](https://scholar.google.com/citations?user=iPn7XkIAAAAJ&hl=en) • ResearchGate
+📧 Ehsan[DOT]Erfani[at]dri[DOT]edu | [LinkedIn](https://www.linkedin.com/in/ehsanerfani/) • [GitHub](https://github.com/e-erfani/) • [Google Scholar](https://scholar.google.com/citations?user=iPn7XkIAAAAJ&hl=en) • [ResearchGate](https://www.researchgate.net/profile/Ehsan-Erfani)
 
 ---
 
@@ -71,9 +71,3 @@ Mentoring (students/interns):
 - Earth's Radiation Budget Meeting — Cirrus Cloud Thinning (talk), Boulder, 2023  
 - AGU / GRC / CESM Workshops — Low cloud aerosol interactions, cloud feedbacks (2017–2022)  
 
----
-
-## Download CV
-👉 [Download full CV (PDF)](CV.pdf)
-
-*(Upload your PDF into the repo so this link works.)*
