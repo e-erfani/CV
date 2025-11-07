@@ -70,7 +70,7 @@ GPA: 4.0 / 4.0
 
 - **Erfani, Ehsan**, and Mitchell, D. (2014). A partial mechanistic understanding of the North American monsoon. J. Geophys. Res., 119, 13096–13115. https://doi.org/10.1002/2014JD022038  
 
-- **Erfani, Ehsan** (2009). A case study of the interaction of mid-tropospheric Rossby waves in the Caspian Sea and Alborz Mountains. M.Sc. Thesis, University of Tehran, 118 pp.  
+- **Erfani, Ehsan** (2009). A case study of the interaction of mid-tropospheric Rossby waves in the Caspian Sea and Alborz Mountains. M.Sc. Thesis, U of Toran, 118 pp. http://doi.org/10.13140/RG.2.2.21493.63206 
  
 
 ---
@@ -148,7 +148,7 @@ Mentoring (students/interns):
 
 - **Erfani, Ehsan**, Mitchell, D., Ivanova, D., Lavin, M. (2013). Air–sea interaction in Gulf of California and NAM. ASR Fall Working Groups, Rockville, MD (talk).
 
-- **Erfani, Ehsan**, Mohebalhojeh, A. R., Farahani, M. (2010). Interaction of synoptic-scale systems and Alborz Mountains. 14th Geophysics Conference, Tehran (talk).
+- **Erfani, Ehsan**, Mohebalhojeh, A. R., Farahani, M. (2010). Interaction of synoptic-scale systems and Alborz Mountains. 14th Geophysics Conference (talk).
 
 - **Erfani, Ehsan**, Mohebalhojeh, A. R., Farahani, M., Hosseinpour, F. (2009). Mid-tropospheric vortices in the Caspian Sea and Alborz Mountains. MOCA-09 IAMAS/IAPSO/IACS, Montréal (talk).
 
