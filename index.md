@@ -56,7 +56,6 @@ GPA: 4.0 / 4.0
 - Mitchell, D. L., Garnier, A., Avery, M., and **Erfani, Ehsan** (2016). CALIPSO observations of the dependence of homo- and heterogeneous ice nucleation in cirrus clouds. Atmos. Chem. Phys. Discuss. [doi:10.5194/acp-2016-1062](https://doi.org/10.5194/acp-2016-1062)
 - **Erfani, Ehsan** (2016). A partial mechanistic understanding of North American monsoon and microphysical properties of ice particles. Ph.D. Dissertation, University of Nevada–Reno. [doi:10.13140/RG.2.2.26526.79685](http://doi.org/10.13140/RG.2.2.26526.79685)
 - **Erfani, Ehsan**, and Mitchell, D. (2014). A partial mechanistic understanding of the North American monsoon. J. Geophys. Res., 119, 13096–13115. [doi:10.1002/2014JD022038](https://doi.org/10.1002/2014JD022038)
-- **Erfani, Ehsan** (2009). A case study of the interaction of mid-tropospheric Rossby waves in the Caspian Sea and Alborz Mountains. M.Sc. Thesis, University of Torah. [http://doi.org/10.13140/RG.2.2.21493.63206](http://doi.org/10.13140/RG.2.2.21493.63206) 
 
 ---
 
